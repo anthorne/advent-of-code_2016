@@ -1,3 +1,4 @@
+# Todo: Fix broken solution for part two
 import string
 
 rooms = []
