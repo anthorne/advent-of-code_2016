@@ -1,4 +1,5 @@
 # Day 10
+# TODO: I didn't get this to work...
 
 # --- Variables ---
 holders = []
